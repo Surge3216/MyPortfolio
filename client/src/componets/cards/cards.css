@@ -1,0 +1,36 @@
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100% !important;
+  }
+  .height{
+    height: 15pc !important;
+  }
+  .height2{
+    height: 10pc !important;
+  }
+  .height3{
+    height: 10pc !important;
+  }
+  @media only screen and (min-width: 601px) {
+    .container {
+      width: 85%;
+    }
+  }
+  @media only screen and (min-width: 993px) {
+    .container {
+      width: 70%;
+    }
+  }
+  .img1{
+    height: 10px;
+  }
+  .con{
+    padding-left: 30px ;
+  }
+  .con2{
+    height: 327px !important;
+  }
+  .foot{
+    padding-left: 15pc;
+  }

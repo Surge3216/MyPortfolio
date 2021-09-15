@@ -12,4 +12,15 @@ router.post('/', async (req, res)=>{
     }
 })
 
+// Get all projects
+
+router.get('/', async (req, res)=>{
+    try{
+        const project = await Projects.find()
+        res.status(200).json(project)
+    }catch (err){
+        res.status(500).json
+    }
+})
+
 module.exports = router;

@@ -1,0 +1,30 @@
+.txt{
+    color: white !important;
+    font-family: Consolas, monaco, monospace; 
+    font-style: normal !important; 
+    font-variant: normal !important; 
+    font-weight: 400 !important; 
+    line-height: 40px !important;
+    font-size: medium !important; 
+}
+.txt2{
+    color: rgb(0, 0, 0);
+    font-family: Consolas, monaco, monospace; 
+    font-style: normal !important; 
+    font-variant: normal !important; 
+    font-weight: 400 !important; 
+    line-height: 28px !important; 
+    font-size: small !important;
+}
+.yellow{
+    background-color: rgb(218, 215, 64) !important;
+}
+.pink{
+    background-color: rgb(162,30,78) !important;
+}
+.blue{
+    background-color:rgb(16,138,180)!important;
+}
+.bpad{
+    margin-bottom: 1px !important;
+}
