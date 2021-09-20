@@ -8,7 +8,7 @@ export default function NavBar() {
             <nav className="thing">
     <div className="nav-wrapper">
       <div className="container">
-      <h4>Sergio Campos</h4>
+      <p class="brand-logo">Sergio Campos</p>
       </div>
     </div>
   </nav>
